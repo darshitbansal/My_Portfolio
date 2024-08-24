@@ -6,22 +6,15 @@
 
 **This is a responsive portfolio website built using HTML, CSS, and JavaScript. It includes multiple pages showcasing various sections such as career information, education details, gallery, hobbies, skills, and testimonials. The contact page is fully functional and uses emailjs to send emails to users upon form submission.**
 
-## Live Demo
-
-You can view the live demo of this portfolio website on Netlify:
-<br>
-LIVE:  "https://inspiring-kitsune-505a69.netlify.app"
-
 ## Pages
 
 1. **Home:** Landing page introducing the portfolio.
 2. **Career:** Information about career history and experience.
 3. **Contact:** Functional contact form using emailjs to send emails.
 4. **Education:** Details about educational background and qualifications.
-5. **Gallery:** Gallery showcasing images or projects.
-6. **Hobbies:** Section displaying hobbies and interests.
-7. **Skills:** Information about technical skills and expertise.
-8. **Testimonials:** Testimonials or reviews from clients or colleagues.
+5. **Hobbies:** Section displaying hobbies and interests.
+6. **Skills:** Information about technical skills and expertise.
+7. **Testimonials:** Testimonials or reviews from clients or colleagues.
 
 ## Technologies Used
 
